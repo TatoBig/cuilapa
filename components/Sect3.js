@@ -69,6 +69,9 @@ export default function Sect3() {
               <th className="px-4 py-2">Tipo de Tubo</th>
               <th className="px-4 py-2">Volúmenes Comerciales</th>
               <th className="px-4 py-2">Observaciones</th>
+              <th className="px-4 py-2">Adulto</th>
+              <th className="px-4 py-2">Pediatrico</th>
+
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-200">
@@ -77,24 +80,31 @@ export default function Sect3() {
               <td className="px-4 py-2">EDTA K₂</td>
               <td className="px-4 py-2">0.5–5 mL</td>
               <td className="px-4 py-2">Llenar hasta la marca. No exceder</td>
+              <td className="px-4 py-2"><img src="/l2.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
+              <td className="px-4 py-2"><img src="/l1.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
             </tr>
             <tr>
               <td className="px-4 py-2">🔵 Celeste</td>
               <td className="px-4 py-2">Citrato 3.2%</td>
               <td className="px-4 py-2">1.8–4.5 mL</td>
               <td className="px-4 py-2">Llenado exacto. Relación 9:1</td>
+              <td className="px-4 py-2"><img src="/a2.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
+              <td className="px-4 py-2"><img src="/a1.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
             </tr>
             <tr>
               <td className="px-4 py-2">🟡 Amarillo</td>
               <td className="px-4 py-2">Gel + activador</td>
               <td className="px-4 py-2">3.5–7 mL</td>
               <td className="px-4 py-2">Llenar hasta la marca. Suero adecuado</td>
+              <td className="px-4 py-2"><img src="/ama.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
             </tr>
             <tr>
               <td className="px-4 py-2">🔴 Rojo</td>
               <td className="px-4 py-2">Tubo seco</td>
               <td className="px-4 py-2">0.5–10 mL</td>
               <td className="px-4 py-2">Sin marca visible. Llenar completo</td>
+              <td className="px-4 py-2"><img src="/r1.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
+              <td className="px-4 py-2"><img src="/r2.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
             </tr>
           </tbody>
         </table>

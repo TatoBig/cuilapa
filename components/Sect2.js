@@ -11,6 +11,7 @@ export default function Sect2() {
         </li>
         <li>Etiqueta legible, sin tachones y bien adherida</li>
       </ul>
+      <img src="/lila.png" alt="Tubo rojo pediátrico" className="w-20" />
 
       <h4 className="text-md font-semibold text-gray-800 mt-3">
         📝 En la boleta correspondiente:
@@ -23,6 +24,9 @@ export default function Sect2() {
         <li>Pruebas a realizar</li>
         <li>Sello del médico solicitante</li>
       </ul>
+
+      <img src="/llenado1.png" alt="Tubo rojo pediátrico" className="w-full" />
+      <img src="/llenado2.png" alt="Tubo rojo pediátrico" className="w-full" />
 
       <p className="text-red-700 font-medium text-sm mb-4">
         ⚠️ Boletas sin sello o fecha visible serán rechazadas. Las muestras
@@ -196,9 +200,6 @@ export default function Sect2() {
         </li>
       </ul>
 
-      <p className="text-sm text-gray-500 italic mt-4">
-        (Aquí aún colocaré imágenes de los recipientes)
-      </p>
     </>
   );
 }
