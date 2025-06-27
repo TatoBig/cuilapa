@@ -14,7 +14,7 @@ export default function Home() {
           📲 Guía interactiva para el personal de salud
         </h1>
         <p className="text-xl text-gray-800 mb-4">
-          ¡Bienvenido/a a la plataforma preanalítica del Hospital Regional de
+          ¡Bienvenido/a a la plataforma preanalítica del Laboratorio Clínico Hospital Regional de
           Cuilapa!
         </p>
         <p className="text-md text-gray-700 mb-4">
