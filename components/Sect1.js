@@ -18,6 +18,7 @@ export default function Sect1() {
         🟣 TUBO CON TAPA MORADA O LILA
       </h5>
       <div className="flex gap-4 items-center my-2">
+        <img src="/a-lila.jpeg" alt="Tubo lila adulto" className="w-20 max-w-md mx-auto" />
         <img src="/p-lila.png" alt="Tubo lila pediátrico" className="w-20 max-w-md mx-auto" />
       </div>
       <ul className="list-disc list-inside text-sm mb-4 text-gray-700">
