@@ -89,7 +89,7 @@ export default function Sect3() {
               <td className="px-4 py-2">1.8–4.5 mL</td>
               <td className="px-4 py-2">Llenado exacto. Relación 9:1</td>
               <td className="px-4 py-2"><img src="/a2.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
-              <td className="px-4 py-2"><img src="/a1.png" alt="Tubo rojo pediátrico" className="w-20" /></td>
+              <td className="px-4 py-2"><img src="/a1.jpeg" alt="Tubo rojo pediátrico" className="w-20" /></td>
             </tr>
             <tr>
               <td className="px-4 py-2">🟡 Amarillo</td>
